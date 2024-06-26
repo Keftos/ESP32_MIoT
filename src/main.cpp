@@ -35,12 +35,12 @@ char auth[] = "0aecdf657f20";
 #define wifichoose 1 // 选择使用场景  0：家 1：公司
 
 #if (wifichoose == 0)
-#define SSID "PDCN"
-#define PSWD "gtyyj180"
+#define SSID "QQQQ"
+#define PSWD "000000000"
 
 #elif (wifichoose == 1)
-#define SSID "412"
-#define PSWD "woli179179"
+#define SSID "qqqq"
+#define PSWD "11111111"
 
 #endif
 
